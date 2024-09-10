@@ -112,12 +112,12 @@ function Footer() {
       </div>
       <div class="footer-bottom">
         <div class="legal-links">
-          <a href="#">Contact us</a>
-          <a href="#">Legal</a>
-          <a href="#">Privacy policy</a>
-          <a href="#">Cookie policy</a>
-          <a href="#">API terms</a>
-          <a href="#">Sitemap</a>
+          <a href="https://google.com">Contact us</a>
+          <a href="https://google.com">Legal</a>
+          <a href="https://google.com">Privacy policy</a>
+          <a href="https://google.com">Cookie policy</a>
+          <a href="https://google.com">API terms</a>
+          <a href="https://google.com">Sitemap</a>
         </div>
         <div class="language-select">
           <select>

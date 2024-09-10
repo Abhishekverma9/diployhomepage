@@ -85,7 +85,7 @@ return (
                     <p class="rating-text">(4.8/5)</p>
                    
                   </div>
-                  <a href="#" class="reviews-link">
+                  <a href="https://google.com" class="reviews-link">
                       <div className="reviewsflex">
                      based on 875 reviews
                      </div>
