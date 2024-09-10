@@ -6,6 +6,7 @@ function Header() {
       <header className="nav flex justify-between pb-1">
         <div>
           <img
+            alt="demo"
             src="https://a.storyblok.com/f/165154/261x55/ecf04f407f/gelato_logo_black.svg"
             className="logoimage"
           />
@@ -30,7 +31,7 @@ function Header() {
             },
           ].map((nav) => (
             <div className="nav-item">
-              <img className="contactlogo" src={nav.img} />
+              <img className="contactlogo" alt="demo" src={nav.img} />
               <span>{nav.label}</span>{" "}
             </div>
           ))}

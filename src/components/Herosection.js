@@ -97,7 +97,7 @@ return (
               <div class="image-container-hero">
                 <img
                   src="https://a.storyblok.com/f/165154/1105x958/e9c9ddb8d6/01_hp_top-banner_white-version-1.png/m/1000x0/"
-                  alt="iMac"
+                  alt=""
                 />
               </div>
             </div>
