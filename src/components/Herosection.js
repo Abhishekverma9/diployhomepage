@@ -20,7 +20,7 @@ return (
                   <button className="btn-2">See our products</button>
                 </div>
                 <div class="price-and-reviews">
-                  <img className="shopifyimg" src="https://a.storyblok.com/f/165154/300x86/7d28c66657/shopify_monotone_black.svg"/>
+                  <img alt='shopify' className="shopifyimg" src="https://a.storyblok.com/f/165154/300x86/7d28c66657/shopify_monotone_black.svg"/>
                   <div class="rating">
                     <div class="stars">
                       <svg
